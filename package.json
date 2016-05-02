@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/emersion/mpris-service",
   "dependencies": {
-    "dbus": "MarshallOfSound/node-dbus#linux-only"
+    "dbus": "GPMDP/node-dbus#linux-only"
   }
 }
